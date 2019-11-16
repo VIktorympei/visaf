@@ -7,6 +7,7 @@ namespace lab
         static void Main(string[] args)
         {
             Console.WriteLine("Hello people!");
+            Console.WriteLine("Good day!");
         }
     }
 }
